@@ -1,0 +1,19 @@
+{
+  "name": "ivylaqerepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivylaqe/ivylaqerepo.git"
+  },
+  "author": "ivylaqe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivylaqe/ivylaqerepo/issues"
+  },
+  "homepage": "https://github.com/ivylaqe/ivylaqerepo#readme"
+}
